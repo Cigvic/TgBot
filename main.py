@@ -2,7 +2,7 @@ import time
 import telebot
 from telebot import types
 
-bot = telebot.AsyncTeleBot("1887572970:AAGUUn2aoaEqF8fo2B5Zaq3KvXLgpA6s1Lw")
+bot = telebot.AsyncTeleBot("")
 
 users = {}
 
